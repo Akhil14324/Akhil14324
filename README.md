@@ -20,6 +20,3 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhil14324&show_icons=true&locale=en&layout=compact" alt="akhil14324" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhil14324&" alt="akhil14324" /></p>
